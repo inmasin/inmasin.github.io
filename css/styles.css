@@ -609,7 +609,7 @@ progress {
 .img-logo {
   top: 1px !important;
   position: fixed !important;
-  height: 70px !important;
+  height: 80px !important;
 }
 .img-casestudy {
   width: fit-content;
@@ -10975,6 +10975,7 @@ header.masthead .masthead-subheading {
 header.masthead .masthead-heading {
   font-size: 3.25rem;
   font-weight: 700;
+  color: black;
   line-height: 3.25rem;
   margin-bottom: 2rem;
   font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
