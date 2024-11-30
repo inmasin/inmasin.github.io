@@ -609,7 +609,7 @@ progress {
 .img-logo {
   top: 1px !important;
   position: fixed !important;
-  height: 4.5rem !important;
+  height: 4rem !important;
 }
 .img-casestudy {
   width: fit-content;
@@ -10890,7 +10890,8 @@ p {
 #mainNav {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background-color: #212529;
+  /* background-color: #212529; */
+  background-color: black;
 }
 #mainNav .navbar-toggler {
   padding: 0.75rem;
@@ -10924,7 +10925,8 @@ p {
     padding-top: 1rem;
     padding-bottom: 1rem;
     border: none;
-    background-color: #212529;
+    /* background-color: #212529; */
+    background-color: black;
     /* transition: padding-top 0.3s ease-in-out, padding-bottom 0.3s ease-in-out; */
   }
   #mainNav .navbar-brand {
@@ -10938,7 +10940,8 @@ p {
   #mainNav.navbar-shrink {
     padding-top: 1rem;
     padding-bottom: 1rem;
-    background-color: #212529;
+    /* background-color: #212529; */
+    background-color: black;
   }
   #mainNav.navbar-shrink .navbar-brand {
     font-size: 1.25em;
